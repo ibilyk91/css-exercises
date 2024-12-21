@@ -1,0 +1,16 @@
+p {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.elem2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+.elem3 {
+    font-size: 24px;
+}
+.elem4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
